@@ -2,7 +2,7 @@
 
 Hey! My name is Austin Bennett, and this is my github!
 
-- 🌱 I’m currently learning full-stack blockchain app development! Cryptocurrency can bring a lot of value to our daily lives. I want to be a part of paving the way!
+- 🌱 I’m currently learning front-end web development, especially React & NodeJS
 
 - 📸 Fun fact: I like photography, I shoot on a Fujifilm X-T1, and 35mm analog film :)
 
