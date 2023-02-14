@@ -2,7 +2,7 @@
 
 Hey! My name is Austin Bennett, and this is my github!
 
-- 🌱 I’m currently learning front-end web development, especially React & NodeJS
+- 🌱 I’m currently learning front-end web development, specifically React & NodeJS
 
 - 📸 Fun fact: I like photography, I shoot on a Fujifilm X-T1, and 35mm analog film :)
 
