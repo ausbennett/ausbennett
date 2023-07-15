@@ -1,7 +1,6 @@
-### Hello! My name is Austin Bennett!
+### Austin Bennett
 
-- 🌱 I’m currently learning front-end web development, specifically Angular, Express, Node.js & MongoDB (MEAN)
+I am pursuing a career in DevOps and Cloud. One of the things I love about being in DevOps is having a positive impact on the lives of the people I work with on a day-to-day basis. I am passionate about learning new technologies and tools that can help me improve my skills and make a difference in the industry.
 
-- 📸 Fun fact: I like photography, I shoot on a Fujifilm X-T1, and 35mm analog film :)
-
-- 📫 How to reach me: ausbenn@icloud.com
+- 💼 I am currently a DevOps & Site Reliability Intern for TD Securities
+- 📧 How to reach me: ausbenn@icloud.com
